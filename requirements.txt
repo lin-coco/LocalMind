@@ -1,0 +1,14 @@
+python-dotenv
+langchain 
+langchain-openai
+grandalf
+pypdf
+langchain-community
+bilibili-api-python
+beautifulsoup4
+langchain-unstructured 
+unstructured
+langchain-text-splitters
+langchain-huggingface
+modelscope
+docx2txt
